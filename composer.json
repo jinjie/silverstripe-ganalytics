@@ -1,0 +1,15 @@
+{
+    "name": "jinjie/ganalytics",
+    "description": "Google Analytics for SilverStripe",
+    "type": "silverstripe-vendormodule",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kong Jin Jie",
+            "email": "jinjie@swiftdev.sg"
+        }
+    ],
+    "require": {
+        "silverstripe/framework": "^4.1"
+    }
+}
