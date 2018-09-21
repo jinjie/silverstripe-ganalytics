@@ -1,0 +1,6 @@
+---
+name: ganalytics
+---
+SilverStripe\CMS\Controllers\ContentController:
+  extensions:
+    - SwiftDevLabs\GoogleAnalytics\Extensions\ContentControllerExtension
